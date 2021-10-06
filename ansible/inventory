@@ -1,0 +1,14 @@
+[master]
+master
+
+[slaves]
+node1
+node2
+
+[webservers]
+web1
+web2
+
+[databases]
+db1
+db2
